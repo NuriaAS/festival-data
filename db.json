@@ -1,37 +1,34 @@
 {
-  "authors": [
+  "events": [
     {
-      "id": 1,
-      "title": "Juanvi López",
-      "country": "Spain",
-      "bornDate": "1990",
-      "image": "",
-      "work": "El plato de plástico",
-      "shortDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-      "description": "Maecenas vel viverra libero. Integer bibendum enim in tellus pellentesque congue a nec urna. Vivamus nec mauris et elit hendrerit venenatis ut finibus neque. Aenean at sapien euismod orci egestas venenatis vitae a nisl. Integer rutrum ipsum nec orci gravida laoreet a et sapien. Quisque ligula risus, mattis at ligula nec, mattis ultricies purus. Donec sapien enim, elementum ac mattis a, faucibus in ex. In quis ex vitae tellus feugiat vestibulum. Maecenas ac arcu ante. Nunc lobortis dapibus urna. Etiam pulvinar imperdiet mi, at varius quam eleifend id. Nunc porta, ipsum quis dapibus dignissim, nisl ante dictum odio, sed sodales lacus mauris ac mi. Duis mollis ante eget justo maximus ornare. Fusce id turpis dolor.",
-      "url": ""
+      "id": 123,
+      "category": "animal welfare",
+      "title": "Cat Adoption Day",
+      "description": "Find your new feline friend at this event.",
+      "location": "Meow Town",
+      "date": "January 28, 2022",
+      "time": "12:00",
+      "organizer": "Kat Laydee"
     },
     {
-      "id": 2,
-      "title": "Lístrata Moraes",
-      "country": "Brasil",
-      "bornDate": "1987",
-      "image": "",
-      "work": "Agua de beber",
-      "shortDescription": "Duis pellentesque risus nunc, eu malesuada nunc lobortis vel.",
-      "description": "Etiam id lobortis turpis, non semper orci. Duis eleifend risus ante, vitae molestie augue facilisis quis. Pellentesque sed ligula nec urna maximus lobortis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Vestibulum condimentum ullamcorper nunc, vel faucibus lacus feugiat eget. Nulla vehicula at purus sit amet suscipit. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse a est finibus metus placerat semper a eu purus. Pellentesque tristique hendrerit velit sit amet lobortis. Curabitur sed eros vel mi commodo aliquam.",
-      "url": ""
+      "id": 456,
+      "category": "food",
+      "title": "Community Gardening",
+      "description": "Join us as we tend to the community edible plants.",
+      "location": "Flora City",
+      "date": "March 14, 2022",
+      "time": "10:00",
+      "organizer": "Fern Pollin"
     },
     {
-      "id": 3,
-      "title": "Zoe Bronson",
-      "country": "Togo",
-      "bornDate": "2000",
-      "image": "",
-      "work": "Hot leg",
-      "shortDescription": "Phasellus ultrices nisl risus, ut lobortis dui sagittis non.",
-      "description": "Ut porta faucibus tristique. Etiam pulvinar ac eros vel consectetur. Nam dignissim blandit consequat. Quisque fermentum venenatis venenatis. Nam felis ante, molestie porta turpis non, dignissim fringilla nunc. Nulla sit amet pulvinar enim, id mollis orci. Suspendisse vulputate maximus malesuada. Etiam id lobortis turpis, non semper orci. Duis eleifend risus ante, vitae molestie augue facilisis quis. Pellentesque sed ligula nec urna maximus lobortis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Vestibulum condimentum ullamcorper nunc, vel faucibus lacus feugiat eget.",
-      "url": ""
+      "id": 789,
+      "category": "sustainability",
+      "title": "Beach Cleanup",
+      "description": "Help pick up trash along the shore.",
+      "location": "Playa Del Carmen",
+      "date": "July 22, 2022",
+      "time": "11:00",
+      "organizer": "Carey Wales"
     }
   ]
 }
