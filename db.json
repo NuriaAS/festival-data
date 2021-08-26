@@ -39,5 +39,25 @@
       "url": "",
       "exhibitionPlace": "Centro del Carmen"
     }
+  ],
+  "places": [
+    {
+      "id": 111,
+      "name": "Muvim",
+      "web": "http://www.muvim.es/",
+      "description": "Museo Valenciano de la ilustración y la modernidad"
+    },
+    {
+      "id": 112,
+      "name": "Centro del Carmen",
+      "web": "https://www.consorcimuseus.gva.es/centro-del-carmen/?lang=es",
+      "description": "Centro de cultura contemporánea"
+    },
+    {
+      "id": 113,
+      "name": "La Llotgeta",
+      "web": "https://fundacionmediterraneo.es/nuestros-centros-centros-culturales/centro-cultural-la-llotgeta",
+      "description": "Centro de cultura y arte de vanguardia"
+    }
   ]
 }
